@@ -25,7 +25,7 @@ options.bundle_id = 'com.apple.calculator'
 # or
 # ios-deploy -c
 # to get some additional basic info about connected device
-options.udid = ''
+options.udid = '00008030-000274DA2613402E'
 
 # following options are doing some 'magic' that helps establish connection to real device
 # based on hints from:
