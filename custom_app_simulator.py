@@ -31,7 +31,6 @@ options.wda_startup_retries = '3'
 options.wda_startup_retry_interval = '20000'
 options.wda_local_port = '8132'
 
-
 appium_server_url = 'http://localhost:4723'
 appium_service = AppiumService()
 
